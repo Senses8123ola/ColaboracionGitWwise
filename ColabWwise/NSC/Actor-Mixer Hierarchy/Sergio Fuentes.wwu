@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{1AD50F3D-C8AB-4CEA-A529-EB8FE2B08CB9}" SchemaVersion="103" RootDocumentID="{9482E85E-2742-432B-B48D-053623C6FDA1}" ParentDocumentID="{9482E85E-2742-432B-B48D-053623C6FDA1}">
+<WwiseDocument Type="WorkUnit" ID="{1AD50F3D-C8AB-4CEA-A529-EB8FE2B08CB9}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Sergio Fuentes" ID="{1AD50F3D-C8AB-4CEA-A529-EB8FE2B08CB9}" OwnerID="{9482E85E-2742-432B-B48D-053623C6FDA1}" PersistMode="Nested">
+		<WorkUnit Name="Sergio Fuentes" ID="{1AD50F3D-C8AB-4CEA-A529-EB8FE2B08CB9}" PersistMode="Standalone">
 			<ChildrenList>
 				<Sound Name="sergio" ID="{7FE63936-8486-455D-B3E0-CDE12A9F995A}" ShortID="95618977">
 					<ReferenceList>
