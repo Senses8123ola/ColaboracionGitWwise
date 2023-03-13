@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1AD50F3D-C8AB-4CEA-A529-EB8FE2B08CB9}" SchemaVersion="103" RootDocumentID="{9482E85E-2742-432B-B48D-053623C6FDA1}" ParentDocumentID="{9482E85E-2742-432B-B48D-053623C6FDA1}">
+	<AudioObjects>
+		<WorkUnit Name="Sergio Fuentes" ID="{1AD50F3D-C8AB-4CEA-A529-EB8FE2B08CB9}" OwnerID="{9482E85E-2742-432B-B48D-053623C6FDA1}" PersistMode="Nested">
+			<ChildrenList>
+				<Sound Name="sergio" ID="{7FE63936-8486-455D-B3E0-CDE12A9F995A}" ShortID="95618977">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{B095AA85-54E9-45B3-A032-C08F48F68334}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{5A514F9B-D2D9-43D9-BD5A-BF0D766AFCEB}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="ZomBear Hurt" ID="{A2C617B7-CC37-490A-B3B9-7E8FB1AB8793}">
+							<Language>SFX</Language>
+							<AudioFile>ZomBear Hurt.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="468190829"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="ZomBear Hurt" ID="{A2C617B7-CC37-490A-B3B9-7E8FB1AB8793}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
